@@ -1,0 +1,7 @@
+env
+venv
+source venv/bin/activate
+
+Ex_Files_Python_GUI_Dev_Tkinter
+Ex_Files_Python_GUI_Dev_Tkinter.zip
+*\__pycache__
